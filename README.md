@@ -54,4 +54,3 @@ python src/predict.py "I love this video" "this is stupid, seriously"
 ## Notes
 - Binary label: `label = 1` if any of {toxic, severe_toxic, obscene, threat, insult, identity_hate} = 1, else 0.
 - If your `raw/train.csv` already has two columns `text,label`, the prepare script will pass it through as-is.
-- Visuals use **matplotlib** only (single chart per figure, default colors).
