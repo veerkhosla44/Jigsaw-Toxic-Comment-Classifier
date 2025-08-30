@@ -1,4 +1,4 @@
-# Toxic Comment Classification (YouTube Trust & Safety Demo)
+# Toxic Comment Classification
 
 This repo trains a **binary toxic vs non-toxic** classifier using the **Jigsaw Toxic Comment** data you downloaded.
 It accepts either raw Jigsaw CSVs (multi-label) or already-processed `text,label` CSVs.
